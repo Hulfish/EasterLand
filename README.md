@@ -1,4 +1,3 @@
-# EasterLand
-the reposetory for storing my projects.
+# Stepyandex.ru
 
-I wanna notice that this project is my first (almost) such application.
+My first project that i`ve uploaded to the hosting.
